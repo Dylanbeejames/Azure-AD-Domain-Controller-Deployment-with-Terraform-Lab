@@ -1,5 +1,7 @@
 Azure VM Lab – Terraform Walkthrough
 
+https://www.loom.com/share/0d61ee22ebba4e7b854ae1cd04fc1187
+
 This lab shows how to deploy a Windows Server 2022 VM in Azure using Terraform and configure it as an Active Directory Domain Controller.
 
 It’s a full workflow from setup to cleanup using Infrastructure as Code.
