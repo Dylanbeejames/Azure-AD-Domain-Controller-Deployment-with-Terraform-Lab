@@ -1,7 +1,6 @@
 # Azure VM Lab — Terraform & Active Directory Domain Controller
 
 **Author:** Dylan  
-**Role:** Cloud Security Specialist  
 **Video Walkthrough:** [▶ Watch on Loom](https://www.loom.com/share/0d61ee22ebba4e7b854ae1cd04fc1187)
 
 ---
