@@ -2,8 +2,7 @@
 
 **Author:** Dylan Bryson  
 **Role:** Cloud Security Specialist  
-**Video Walkthrough:** [▶ Watch on Loom](https://www.loom.com/share/6cce304ef6934a0a8f58d73d218c311e)
-
+**Video Walkthrough:** ▶ Watch on Loom](https://www.loom.com/share/0d61ee22ebba4e7b854ae1cd04fc1187)
 ---
 
 ## Table of Contents
