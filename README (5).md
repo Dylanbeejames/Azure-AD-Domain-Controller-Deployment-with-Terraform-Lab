@@ -1,7 +1,7 @@
 # Infrastructure as Code with Terraform — Azure AD Domain Controller Lab
 
 **Author:** Dylan Bryson    
-**Video Walkthrough:** ▶ Watch on Loom](https://www.loom.com/share/0d61ee22ebba4e7b854ae1cd04fc1187)
+**Video Walkthrough:** [▶ Watch on Loom](https://www.loom.com/share/0d61ee22ebba4e7b854ae1cd04fc1187)
 ---
 
 ## Table of Contents
